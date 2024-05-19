@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="demo_zc706" location="C:/Users/lgonzales/Documents/Vivado/code/demo_zc706/demo_zc706" platform="C:/Users/lgonzales/Documents/Vivado/code/demo_zc706/demo_zc706_wrapper/export/demo_zc706_wrapper/demo_zc706_wrapper.xpfm" platformUID="xilinx:zc706::0.0(custom)" systemProject="demo_zc706_system" sysConfig="demo_zc706_wrapper" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="07a627bc83734fcd871a8846c3bb3170">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.1800139471">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1509624803" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

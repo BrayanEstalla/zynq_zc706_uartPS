@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri May 17 14:25:26 2024
+# Process ID: 3316
+# Current directory: C:/Users/lgonzales/Documents/Vivado/code/demo_zc706/demo_zc706.runs/impl_1
+# Command line: vivado.exe -log demo_zc706_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source demo_zc706_wrapper.tcl -notrace
+# Log file: C:/Users/lgonzales/Documents/Vivado/code/demo_zc706/demo_zc706.runs/impl_1/demo_zc706_wrapper.vdi
+# Journal file: C:/Users/lgonzales/Documents/Vivado/code/demo_zc706/demo_zc706.runs/impl_1\vivado.jou
+# Running On: DESKTOP-AUUTGSM, OS: Windows, CPU Frequency: 3096 MHz, CPU Physical cores: 6, Host memory: 21329 MB
+#-----------------------------------------------------------
+source demo_zc706_wrapper.tcl -notrace

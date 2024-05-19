@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"demo_zc706": {
+			"proto_instances": {
+			}
+		}
+	}
+}

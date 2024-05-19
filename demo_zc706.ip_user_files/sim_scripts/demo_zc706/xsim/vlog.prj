@@ -1,0 +1,7 @@
+verilog xil_defaultlib --include "G:/Xillinx2022.2/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../demo_zc706.gen/sources_1/bd/demo_zc706/ipshared/ec67/hdl" --include "../../../../demo_zc706.gen/sources_1/bd/demo_zc706/ipshared/ee60/hdl" \
+"../../../../demo_zc706.gen/sources_1/bd/demo_zc706/ip/demo_zc706_processing_system7_0_0/sim/demo_zc706_processing_system7_0_0.v" \
+"../../../../demo_zc706.gen/sources_1/bd/demo_zc706/sim/demo_zc706.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort
